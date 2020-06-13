@@ -1,6 +1,6 @@
 # mrdebugger
 
-A new Flutter application.
+Mr debugger who will always listen to you.
 
 ## Getting Started
 
